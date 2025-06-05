@@ -21,3 +21,5 @@ Este projeto é um aplicativo interativo desenvolvido com Streamlit que utiliza 
 - **Google Generative AI (Gemini)** — para geração das receitas
 
 ---
+## Link do Streamlit
+- https://geradorreceitas-r7epmbj6b2byodbdx5bpd4.streamlit.app
